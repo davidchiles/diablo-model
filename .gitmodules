@@ -1,0 +1,3 @@
+[submodule "submodule/png23d"]
+	path = submodule/png23d
+	url = git://github.com:davidchiles/png23d.git
