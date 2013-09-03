@@ -1,4 +1,4 @@
-diablo-model
+Mount Diablo Model
 ============
 
-3D model of Mount Diablo
+Inspired by [Christopher Jones](https://github.com/taketime)' model of [Mount Hood](https://github.com/taketime/hood-model)
